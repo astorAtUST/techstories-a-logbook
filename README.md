@@ -7,4 +7,4 @@ Things and thoughts around Information Technologies, it all started with [RFC-18
 
 - techstories [contributing-rules](./CONTRIBUTING.md)
 
-- techstories [license](./LICENSE.md)
+- techstories [license](./LICENSE)
